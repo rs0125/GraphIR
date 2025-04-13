@@ -51,7 +51,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _EffectAmount: 0.56975436
+    - _EffectAmount: 0.6439578
+    - _IR: 0.99999946
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
