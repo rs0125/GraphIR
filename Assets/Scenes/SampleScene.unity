@@ -403,7 +403,7 @@ MonoBehaviour:
   maxDistance: 1
   lerpSpeed: 2
   audioSource: {fileID: 612936919}
-  proximityClip: {fileID: 8300000, guid: 6d8cd4155f915ea458e8ea31872b805f, type: 3}
+  proximityClip: {fileID: 8300000, guid: 7f57b78d2b5225a46a8754f9449737ad, type: 3}
   audioFadeSpeed: 0.5
   minPlaybackSpeed: 0.8
   maxPlaybackSpeed: 1.15
@@ -662,7 +662,7 @@ MonoBehaviour:
   lerpSpeed: 4
   Kumar: {fileID: 612936915}
   audioSource: {fileID: 612936919}
-  irClip: {fileID: 8300000, guid: b37ec1d9345c1bd4ca6cbf593f127d47, type: 3}
+  irClip: {fileID: 8300000, guid: 7f57b78d2b5225a46a8754f9449737ad, type: 3}
   audioFadeSpeed: 2
   maxVolume: 1
 --- !u!82 &612936919
@@ -675,8 +675,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6d8cd4155f915ea458e8ea31872b805f, type: 3}
-  m_Resource: {fileID: 8300000, guid: 6d8cd4155f915ea458e8ea31872b805f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7f57b78d2b5225a46a8754f9449737ad, type: 3}
+  m_Resource: {fileID: 8300000, guid: 7f57b78d2b5225a46a8754f9449737ad, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
